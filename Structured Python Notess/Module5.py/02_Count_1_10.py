@@ -1,0 +1,8 @@
+# EASY
+
+# 1. Count from 1 to 5
+i = 1
+
+while i <= 5:
+    print(i)
+    i += 1
